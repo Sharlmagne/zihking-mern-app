@@ -19,7 +19,7 @@ Beta: https://zihking.netlify.app
 
 The `zihking-webstore-server` is a Node.js backend server for the Zihking Webstore application. It provides RESTful APIs for handling various functionalities, such as authentication, file uploads, email sending, and interacting with external services like AWS S3, AWS CloudFront, and PayPal Checkout.
 
-The `zihking-webstore-client` is a React frontend application for the Zihking Webstore. It allows users to browse products, add items to their cart, and place orders.
+The `zihking-webstore-client` is a React frontend application for the Zihking Webstore. It allows users to browse and preview products (music instrumentals), add licenses to their cart, and place orders.
 
 ## Prerequisites
 
